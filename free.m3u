@@ -224,6 +224,12 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalpl
 #EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-name="Discovery HD World" tvg-country="IN" tvg-logo="https://i.imgur.com/g2Bsolg.jpg" tvg-chno="457" group-title="Infotainment",Discovery HD World
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-name="Discovery HD World" tvg-country="IN" tvg-logo="https://i.imgur.com/g2Bsolg.jpg" tvg-chno="457" group-title="Infotainment",Discovery HD World
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-name="Discovery HD World" tvg-country="IN" tvg-logo="https://i.imgur.com/g2Bsolg.jpg" tvg-chno="457" group-title="Infotainment",Discovery HD World
+https://madplay.live/discovery/discovery.m3u8
+
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery HD" tvg-country="IN" tvg-logo="https://i.imgur.com/gTSACLp.jpg" tvg-chno="458" group-title="Infotainment",Investigation Discovery HD
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idhdin-samsungin/playlist.m3u8
 
