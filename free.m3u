@@ -18,9 +18,6 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News (YouTube)" tvg-country="IN" tvg-logo="https://i.imgur.com/ZUCJDnw.jpg" tvg-chno="104" group-title="News",ABP News (YouTUbe)
 https://ythls.onrender.com/channel/UCRWFSbif-RFENbBrSiez1DA.m3u8
 
-#EXTINF:-1 tvg-id="News18India.in" tvg-name="News18 India" tvg-country="IN" tvg-logo="https://i.imgur.com/sXwYpuW.jpg" tvg-chno="106" group-title="News",News18 India
-https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2600000.m3u8
-
 #EXTINF:-1 tvg-id="RBharat.in" tvg-name="R Bharat (Official)" tvg-country="IN" tvg-logo="https://i.imgur.com/DWfkECd.jpg" tvg-chno="105" group-title="News",R Bharat (Official)
 https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_5.m3u8
 
@@ -302,8 +299,8 @@ https://ythls.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
 #EXTINF:-1 tvg-id="INDIATODAY.in" tvg-name="INDIA TODAY (Samsung TV)" tvg-country="IN" tvg-logo="https://i.imgur.com/Gz86NjC.jpg" tvg-chno="702" group-title="News (English)",INDIA TODAY (Samsung TV)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-indiatoday-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="INDIATODAY.in" tvg-name="INDIA TODAY (YouTube)" tvg-country="IN" tvg-logo="https://i.imgur.com/Gz86NjC.jpg" tvg-chno="702" group-title="News (English)",INDIA TODAY (YouTube)
-https://ythls.onrender.com/video/lyeyoqwXm5o.m3u8
+#EXTINF:-1 tvg-id="INDIATODAY.in" tvg-name="INDIA TODAY (Official)" tvg-country="IN" tvg-logo="https://i.imgur.com/Gz86NjC.jpg" tvg-chno="702" group-title="News (English)",INDIA TODAY (Official)
+https://feeds.intoday.in/hltapps/api/master.m3u8
 
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" tvg-country="IN" tvg-logo="https://i.imgur.com/e19l8To.jpg" tvg-chno="704" group-title="News (English)",NDTV 24x7
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8
