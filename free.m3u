@@ -153,7 +153,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
 #EXTINF:-1 tvg-id="EurosportHD.in" tvg-name="Eurosport HD" tvg-country="IN" tvg-logo="https://i.imgur.com/qnUo5Zi.jpg" tvg-chno="331" group-title="Sports",Eurosport HD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+https://github.com/dbmtech/iptv/raw/main/bin/EUROSPORTS%20HD.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-country="IN" tvg-logo="https://i.imgur.com/akdGOlB.jpg" tvg-chno="401" group-title="Sports (Temporary)",BT Sport 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -219,22 +219,16 @@ https://webudit.salamus1.lol/lb/premium598/index.m3u8
 https://deltatesttatasky.akamaized.net/out/i/308733.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetHDWorld.in" tvg-name="Animal Planet HD World" tvg-country="IN" tvg-logo="https://i.imgur.com/pqCiHok.jpg" tvg-chno="456" group-title="Infotainment",Animal Planet HD World
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-name="Discovery HD World" tvg-country="IN" tvg-logo="https://i.imgur.com/g2Bsolg.jpg" tvg-chno="457" group-title="Infotainment",Discovery HD World
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-name="Discovery HD World" tvg-country="IN" tvg-logo="https://i.imgur.com/g2Bsolg.jpg" tvg-chno="457" group-title="Infotainment",Discovery HD World
 https://github.com/dbmtech/iptv/raw/main/bin/Animal%20Planet%20HD.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-name="Discovery HD World" tvg-country="IN" tvg-logo="https://i.imgur.com/g2Bsolg.jpg" tvg-chno="457" group-title="Infotainment",Discovery HD World
-https://madplay.live/discovery/discovery.m3u8
+https://github.com/dbmtech/iptv/raw/main/bin/Discovery%20HD.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery HD" tvg-country="IN" tvg-logo="https://i.imgur.com/gTSACLp.jpg" tvg-chno="458" group-title="Infotainment",Investigation Discovery HD
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idhdin-samsungin/playlist.m3u8
+https://github.com/dbmtech/iptv/raw/main/bin/Investigation%20Discovery%20HD.m3u8
 
 #EXTINF:-1 tvg-id="TLCHD.in" tvg-name="TLC HD" tvg-country="IN" tvg-logo="https://i.imgur.com/ANwsOZ0.jpg" tvg-chno="459" group-title="Infotainment",TLC HD
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8
+https://github.com/dbmtech/iptv/raw/main/bin/TLC%20HD.m3u8
 
 #EXTINF:-1 tvg-id="SONYBBCEarthHD.in" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.imgur.com/68I2HX7.jpg" tvg-chno="474" group-title="Infotainment",SONY BBC Earth HD
 https://dai.google.com/ssai/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
@@ -291,7 +285,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qcomedistaan-sams
 https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Discovery Kids" tvg-country="IN" tvg-logo="https://i.imgur.com/32x9ODS.jpg" tvg-chno="576" group-title="Kids",Discovery Kids
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
+https://github.com/dbmtech/iptv/raw/main/bin/Discovery%20Kids.m3u8
 
 #EXTINF:-1 tvg-id="Ishara.in" tvg-name="Ishara" tvg-country="IN" tvg-logo="https://i.imgur.com/nu7AMMe.jpg" tvg-chno="578" group-title="Kids",Ishara
 https://epiconvh.s.llnwi.net/ishaara/master.m3u8
