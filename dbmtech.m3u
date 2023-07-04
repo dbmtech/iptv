@@ -24,8 +24,8 @@ https://ottrb12.republicworld.com/httppush/ottrb_republic_hindi/chunklist_5.m3u8
 #EXTINF:-1 tvg-id="RBharat.in" tvg-name="R Bharat (Samsung TV)" tvg-country="IN" tvg-logo="https://i.imgur.com/DWfkECd.jpg" tvg-chno="105" group-title="News",R Bharat (Samsung TV))
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="News18India.in" tvg-name="News18 India" tvg-country="IN" tvg-logo="https://i.imgur.com/sXwYpuW.jpg" tvg-chno="106" group-title="News",News18 India
-https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2600000.m3u8
+#EXTINF:-1 tvg-id="News18India.in" tvg-name="News18 India (YouTube)" tvg-country="IN" tvg-logo="https://i.imgur.com/sXwYpuW.jpg" tvg-chno="106" group-title="News",News18 India (YouTube)
+https://ythlsgo.onrender.com/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV (Official)" tvg-country="IN" tvg-logo="https://i.imgur.com/5cYCe12.jpg" tvg-chno="108" group-title="News",India TV (Official)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-tv/master.m3u8
